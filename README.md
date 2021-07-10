@@ -47,5 +47,7 @@ docker rm jupyter-notebook
 
 ### References
 [Dot Graph Viewer](https://edotor.net/)
+
 [Kaggle](https://www.kaggle.com/)
+
 [Machine Learning Dataset Archive](https://archive.ics.uci.edu/ml/datasets.php)
