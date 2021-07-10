@@ -1,2 +1,2 @@
 # Machine-Learning
-Can a robot draw?
+Repository to store my progress in Machine Learning field
