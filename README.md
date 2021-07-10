@@ -44,3 +44,6 @@ docker stop jupyter-notebook
 # Remove the container
 docker rm jupyter-notebook
 ```
+
+### References
+[Dot Graph Viewer](https://edotor.net/)
