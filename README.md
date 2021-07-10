@@ -36,7 +36,7 @@ Example: http://127.0.0.1:32773/?token=19625e70bd3f90a2bcd9519620a55ea3703bdede0
 ```
 ![Web UI](https://github.com/0x4F776C/Machine-Learning/blob/main/screenshots/jupyter-notebook.PNG)
 
-4. Kill container
+4. Destroy container
 ```console
 # Stop container
 docker stop jupyter-notebook
