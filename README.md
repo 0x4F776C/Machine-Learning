@@ -31,7 +31,7 @@ docker logs --tail 3 jupyter-notebook
 ```console
 Open web browser
 
-Go to "http://localhost:<random host port>?token=<token>"
+Go to "http://localhost:<random host port>/?token=<token>"
 Example: http://127.0.0.1:32773/?token=19625e70bd3f90a2bcd9519620a55ea3703bdede0a48d277
 ```
 ![Web UI](https://github.com/0x4F776C/Machine-Learning/blob/main/screenshots/jupyter-notebook.PNG)
