@@ -1,6 +1,10 @@
 # Machine-Learning
 Repository to store my progress in Machine Learning field
 
+## Requirements
+* Docker
+* Web Browser (Firefox, Chrome, IE, etc...)
+
 ## Steps to follow
 
 1. [Let's go through some memes](https://medium.com/nybles/understanding-machine-learning-through-memes-4580b67527bf)
